@@ -1,0 +1,15 @@
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.exe
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.deps.json
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.runtimeconfig.json
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.dll
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.pdb
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.csproj.AssemblyReference.cache
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.AssemblyInfoInputs.cache
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.AssemblyInfo.cs
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.csproj.CoreCompileInputs.cache
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.dll
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\refint\Aggregates.dll
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.pdb
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.genruntimeconfig.cache
+C:\Users\ivvm3\Downloads\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\ref\Aggregates.dll
